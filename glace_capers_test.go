@@ -10,3 +10,8 @@ import (
 func TestServerStatus(t *testing.T) {
     t.Fatalf(`Server Status, Need test contents`)
 }
+
+// A
+func TestA(t *testing.T) {
+    t.Fatalf(`A, Need test contents`)
+}
