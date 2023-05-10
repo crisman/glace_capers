@@ -5,3 +5,8 @@ package glace_capers
 import (
 	"testing"
 )
+
+// Status for server up
+func TestServerStatus(t *testing.T) {
+    t.Fatalf(`Server Status, Need test contents`)
+}
