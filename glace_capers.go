@@ -7,3 +7,7 @@ import {
 	"http"
 	"ploding_pinhole"
 }
+
+func automate() {
+    // XXX
+}
